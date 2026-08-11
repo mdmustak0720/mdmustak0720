@@ -19,8 +19,8 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on [NotunPath](https://github.com/mdmustak0720/NotunPath)
-- 👯 I’m looking to collaborate on **AI/ML and Full Stack projects**
-- 🤝 I’m looking for help with **AI, Agentic AI and scalable web applications**
+- 👯 I’m looking to collaborate on **NotunPath](https://github.com/mdmustak0720/NotunPath)**
+- 🤝 I’m looking for help with **GenAI, Agentic AI **
 - 👨‍💻 All of my projects are available at [my portfolio](https://mdmustak.vercel.app/)
 - 💬 Ask me about **Agentic AI, Full Stack Web Development, Python and Machine Learning**
 - 📫 How to reach me: **mdmustak.0720@gmail.com**
