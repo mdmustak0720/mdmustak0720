@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mustak</h1>
+<h1 align="center">Md Mustak</h1>
 
 <h3 align="center">AI & Full Stack Developer from India</h3>
 
@@ -182,24 +182,6 @@
 
 ---
 
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/md-mustak-0720-dev" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-</a>
-
-<a href="https://github.com/mdmustak0720" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40"/>
-</a>
-</p>
-
-📫 **Email:** mdmustak.0720@gmail.com
-
-🌐 **Portfolio:** https://mdmustak.vercel.app/
-
----
 
 ### 📊 GitHub Stats
 
