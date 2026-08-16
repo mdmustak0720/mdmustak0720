@@ -182,22 +182,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🧠 Kidney Disease Prediction
-Machine learning project for predicting kidney disease using Python and Scikit-learn.
-
-🔗 [View Project](https://github.com/mdmustak0720/kidney-disease-prediction)
-
-#### 📰 NotunPath
-A web-based project focused on building a modern full-stack application.
-
-🔗 [View Project](https://github.com/mdmustak0720/NotunPath)
-
-#### 🎙️ Automatic Speech Recognition & Optimization
-Working on speech recognition and analysis using Whisper, TinyML and LLM technologies.
-
----
 
 ### 🌐 Connect With Me
 
