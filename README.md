@@ -64,10 +64,6 @@
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
 </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
 </p>
 
 #### ⚙️ Backend Development
@@ -86,7 +82,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo-flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
 </p>
 
@@ -112,13 +108,9 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
 </p>
 
-**Areas:** Machine Learning • Deep Learning • NLP • LLMs • Agentic AI • Speech Recognition • TinyML
+**Areas:** Machine Learning • Deep Learning • LLMs • Agentic AI
 
 #### 🗄️ Databases
 
@@ -144,11 +136,7 @@
 </a>
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft-azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -170,18 +158,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</a>
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<img src="https://download.blender.org/branding/community/blender_logo_socket.png" alt="blender" width="40" height="40"/>
-</a>
 </p>
 
 ---
-
 
 ### 🐍 Contribution Snake
 
