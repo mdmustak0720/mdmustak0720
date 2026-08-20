@@ -60,6 +60,10 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
+
+<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+</a>
 </p>
 
 #### ⚙️ Backend Development
@@ -78,7 +82,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo-flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
 </p>
 
@@ -132,7 +136,7 @@
 </a>
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft-azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
